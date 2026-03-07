@@ -9,7 +9,7 @@
   
 </p>
 
-👨‍🎓 Undergraduate at SLIIT<br>
+👨‍🎓 Undergraduate at SLIIT <br>
 <br>🌱 Currently learning AI/ML, Cloud Technologies, and modern web development with Next.js & TypeScript<br>
 <br>🚀 Always eager to learn, build, and collaborate on real-world projects<br>
 <br>📫 Reach Me At:  <a href="mailto:nimgunathilaka021@gmail.com">nimgunathilaka021@gmail.com</a> |
