@@ -6,8 +6,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nisal-G&label=Profile%20views&color=0e75b6&style=flat" />
   &nbsp;&nbsp;
-
-  
 </p>
 
 👨‍🎓 Undergraduate at SLIIT <br>
