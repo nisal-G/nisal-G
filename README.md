@@ -57,7 +57,6 @@
 </p>
 
 ---
-
 ## 🛠️ Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
