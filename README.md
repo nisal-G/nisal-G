@@ -40,7 +40,6 @@
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
 </p>
-
 ---
 
 ## 🗄️ Databases, BaaS & Cloud Services
