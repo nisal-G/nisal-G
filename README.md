@@ -50,7 +50,6 @@
   <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
   <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" />
 </p>
-
 ---
 ## 🛠️ Tools & Platforms
 <p align="left">
