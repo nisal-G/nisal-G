@@ -40,6 +40,7 @@
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
 </p>
+
 ---
 
 ## 🗄️ Databases, BaaS & Cloud Services
@@ -50,7 +51,9 @@
   <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
   <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" />
 </p>
+
 ---
+
 ## 🛠️ Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
